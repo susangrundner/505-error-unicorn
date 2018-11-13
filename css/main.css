@@ -1,0 +1,43 @@
+/*****505 PAGE BODY*****/
+
+body  {
+  background-image: url('../img/unicorn-bkgrd.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+}
+
+/*****505 MESSAGE******/
+
+.container  {
+  width: 1000px;
+  padding-top: 10px;
+  margin-bottom: 200px;
+  margin-left: 90px;
+}
+
+p {
+  font-family: 'Princess Sofia', cursive;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+  font-size: 45px;
+  margin-top: 0px;
+  margin-left: 35px;
+  margin-right: 50px;
+}
+
+h1  {
+  font-family: 'Princess Sofia', cursive;
+  color: #ffffff;
+  font-size: 200px;
+  text-shadow: 5px 5px #404040;
+  margin-bottom: 0px;
+  margin-top: 80px;
+}
+
+#thank-you  {
+  margin-top: 0px;
+  margin-left: 350px;
+  margin-bottom: 100px;
+}
